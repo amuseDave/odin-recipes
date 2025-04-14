@@ -1,0 +1,21 @@
+.title {
+  text-align: center;
+  margin-top: 48px;
+  font-size: 48px;
+}
+
+ul {
+  width: max-content;
+  margin: 0 auto;
+  text-align: center;
+  padding-left: 0;
+}
+
+ul li {
+  margin-top: 8px;
+  list-style: none;
+}
+
+ul li a {
+  color: rgb(224, 211, 255);
+}
